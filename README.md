@@ -8,10 +8,14 @@ TCP/IP 프로토콜을 이용해서 통신을 하는 응용프로그램이 데�
 
 자세한 내용은 -> https://jeongkyun-it.tistory.com/180 
 
+<br>
+
 ## __4-way handshake란?__ 
 3way handshake가 연결 수립을 위해 진행된 과정이였다면, 4way handshake는 세션을 종료하기 위해 수행되는 과정을 말한다.
 
 자세한 내용은 -> https://jeongkyun-it.tistory.com/180 
+
+<br>
 
 ## __HTTPS란? 그리고 HTTP와 차이점이란?__ 
 HTTP는 클라이언트와 서버간 통신을 하는 프로토콜이다. 그러나 보안성이 낮은 이유로 HTTPS는 기본적으로 적용시켜 출시한다. 14년 구글에서 HTTPS로 변경하면 SEO 가산점을 준다는 말에 힘입어 14년 이후부터 HTTPS는 필수가 된 암호화 프로콜이라 볼 수 있다.
