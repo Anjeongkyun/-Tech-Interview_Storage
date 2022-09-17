@@ -4,9 +4,34 @@
 <br><hr><br>
 
 # 목차
+* ### **[Java](#Java)**
 * ### **[Network](#Network)**
 * ### [운영체제](#운영체제)
 * ### [Database](#Database)
+
+<br><hr><br>
+
+# Java
+## Java 버전 별 특징
+* Java1.4 -> Java 5로 올라갈때부터 앞에 1을 빼고 표기, 내부적으론 1.5, 1.6, ... 사용
+* Java SE 8
+  * lambda 표현식 추가
+  * stream api 추가
+  * 날짜와 시간 API 추가
+  * 32비트 지원 마지막 공식버전
+* Java SE 9
+  * HTTP/2 지원
+  * 64비트 버전만 출시
+* Java SE 10
+  * var 키워드 이용한 지역변수 타입 추가
+  * JVM 힙 영역을 시스템 메모리가 아닌 다른 종류의 메모리에도 할당
+  * JDK 레퍼지토리가 하나로 통합
+  * Java기반 JIT 컴파일러
+* Java SE 11
+  * lambda 파라미터에 대한 지역변수 문법 추가
+  * HTTP 클라이언트 표준화
+  * OracleJDK의 독점기능이 OpenJDK에 이식
+  * 2019년 1월부터 OracleJDK가 유료 모델로 전환
 
 <br><hr><br>
 
