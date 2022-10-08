@@ -4,10 +4,29 @@
 <br><hr><br>
 
 # 목차
+* ### **[자료구조](#자료구조)**
 * ### **[Java](#Java)**
 * ### **[Network](#Network)**
 * ### [운영체제](#운영체제)
 * ### [Database](#Database)
+
+# 자료구조
+## **스택(Stack)**
+<br>
+heap영역에 생성된 Object 타입의 데이터들에 대한 참조를 위한 값들이 할당된다.
+원시 타입의 경우 실제 데이터 값이 할당된다.
+해당 method가 호출되면 메모리에 할당되고 method가 종료되면 메모리가 해제된다.
+각 Thread는 자신만의 Stack을 가진다.
+지역변수, 매개변수를 위한 공간
+
+<br>
+
+## **힙(Heap)**
+
+<br>
+
+모든 Obejct Type(String, ArrayList, HashMap, Integer,..)의 데이터가 저장되는 영역이다.
+new 를 상용하여 생성되는 객체의 저장 공간
 
 <br><hr><br>
 
